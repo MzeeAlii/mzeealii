@@ -1,0 +1,1 @@
+Only paste fonts under this directory to load them offline (skipping downloading at runtime).
