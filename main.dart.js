@@ -32223,7 +32223,7 @@ p=new A.eH()
 p.a="Teknogia"
 p.b="Writer & Tech Head"
 p.e="Fresh In Ideas"
-p.c="Matter fact\u2026 Looking forward to covering a lotta interesting on this one."
+p.c="Matter fact\u2026 Looking forward to covering a lotta interesting topics on this one."
 p.y=p.w=B.FN
 o=new A.eH()
 o.a="Olorok"
@@ -32236,7 +32236,7 @@ n=new A.eH()
 n.a="NYWIILA"
 n.b="Dreamer"
 n.e="II"
-n.c="Dream. Wake up. Pray. Be you. Change. Drip. Execute. Progress. Culture. Shine. You are II."
+n.c="Dream. Wake up. Pray. Be you. Change. Execute. Progress. Culture. Drip. You are me. I am you."
 n.w=B.FI
 n.y=B.G0
 return new A.JF(new A.bH(null,t.gW),A.a([m,s,r,q,p,o,n],t.zb),B.p)}}
